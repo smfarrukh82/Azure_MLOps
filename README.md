@@ -1,1 +1,1 @@
-# MLOps_Repo_Pluralsight
+# Azure MLOps
